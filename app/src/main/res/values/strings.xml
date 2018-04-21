@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TCM Organuhr</string>
+    <string name="next_active_label">Als Nächstes Aktiv:</string>
+    <string name="now_active_label">Jetzt Aktiv:</string>
+</resources>
